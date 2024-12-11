@@ -1,0 +1,7 @@
+streamlit
+transformers
+langdetect
+language-tool-python
+sentence-transformers
+nltk
+torch
